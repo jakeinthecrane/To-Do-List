@@ -1,0 +1,12 @@
+﻿'To Do List App.exe' (Win32): Loaded 'C:\Users\jacob\source\repos\To Do List App\x64\Debug\To Do List App.exe'. Symbols loaded.
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'To Do List App.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 30456 has exited with code 0 (0x0).
+The thread 24752 has exited with code 0 (0x0).
+The thread 28488 has exited with code 0 (0x0).
+The program '[30692] To Do List App.exe' has exited with code 0 (0x0).
